@@ -20,5 +20,5 @@ direct users to the high scores page.
 :
 
 ####Final Product Image:
-![Final Product](./assets/codequiz.png)
+![Final Product](Assets/codequiz.png)
 
